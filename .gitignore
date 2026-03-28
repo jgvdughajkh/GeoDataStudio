@@ -1,0 +1,17 @@
+.DS_Store
+
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+*.cbp
+*.o
+*.obj
+
+# Qt Creator
+*.user
+*.user.*
+
+*.app/
