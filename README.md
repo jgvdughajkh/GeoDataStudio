@@ -2,7 +2,7 @@
 # GeoDataStudio: 地质空间数据处理与三维可视化平台
 
 ## 功能展示
-![demo](https://raw.githubusercontent.com/jgvdughajkh/GeoDataStudio/main/show.gif)
+![demo](https://github.com/jgvdughajkh/GeoDataStudio/blob/main/show.gif?raw=true)
 
 ## 项目简介
 
